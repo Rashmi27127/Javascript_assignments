@@ -1,0 +1,11 @@
+let userName = "Rashmi";
+let organization = "Amazon";
+let contactNumber = 9876543210;
+let knowsAutomation = true;
+let usesPlaywright;
+
+console.log(userName, typeof userName);
+console.log(organization, typeof organization);
+console.log(contactNumber, typeof contactNumber);
+console.log(knowsAutomation, typeof knowsAutomation);
+console.log(usesPlaywright, typeof usesPlaywright);
